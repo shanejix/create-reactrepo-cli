@@ -7,7 +7,7 @@
   "author": "shanejixx",
   "license": "MIT",
   "bin": {
-    "create-reactrepo-cli": "init.js"
+    "create-reactrepo-cli": "index.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",
