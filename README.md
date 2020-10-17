@@ -1,6 +1,3 @@
-# create-react-repo-app
-A cli to create react project quickly... 
-
 # install
 ```sh
     npm install create-react-repo-app -g
